@@ -6,6 +6,7 @@ public class InsertionSort {
 		int []numbers ={10,5,3,7,2};
 		
 		InsertionSort(numbers);
+		System.out.println("sorted array:");
 		printArray(numbers);
 
 	}
